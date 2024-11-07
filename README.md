@@ -40,4 +40,3 @@ streamlit run app/streamlit_app.py
 This project uses Hugging Face's transformers library and leverages models fine-tuned for question answering tasks in clinical contexts.
 
 
-This `README.md` is formatted for GitHub and includes sections on installation, usage, and project structure, along with concise instructions on running the app. Let me know if you'd like any adjustments!
