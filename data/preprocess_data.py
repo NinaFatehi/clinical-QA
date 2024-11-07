@@ -3,7 +3,7 @@ from transformers import T5Tokenizer
 
 from huggingface_hub import login
 
-login("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")
+#login("")
 
 
 tokenizer = T5Tokenizer.from_pretrained("t5-small", legacy=False)
