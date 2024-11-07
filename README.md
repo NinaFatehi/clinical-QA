@@ -5,14 +5,6 @@ This repository contains a machine learning model for performing **question answ
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Directory Structure](#directory-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data Preparation](#data-preparation)
-- [Model Training and Evaluation](#model-training-and-evaluation)
-- [Streamlit Application](#streamlit-application)
-- [Acknowledgments](#acknowledgments)
-
----
 
 ## Project Overview
 
@@ -25,8 +17,7 @@ clinical-note-summarization-clean/
 ├── app/
 │   └── streamlit_app.py          # Streamlit app for QA interaction
 ├── data/
-│   ├── preprocess_data.py         # Script for data preprocessing
-│   └── raw_data/                  # Directory for raw datasets
+│   ├── preprocess_data.py         # Script for data preprocessing                
 ├── models/
 │   └── clinical_summary/          # Directory for trained model files
 ├── src/
@@ -34,6 +25,5 @@ clinical-note-summarization-clean/
 │   ├── evaluate_model.py          # Model evaluation script
 │   └── utils.py                   # Utility functions
 ├── .gitignore                     # Ignore unnecessary files
-├── .gitattributes                 # Git LFS configuration
 ├── requirements.txt               # Project dependencies
 └── README.md                      # Project documentation
