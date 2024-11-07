@@ -27,3 +27,7 @@ clinical-note-summarization-clean/
 ├── .gitignore                     # Ignore unnecessary files
 ├── requirements.txt               # Project dependencies
 └── README.md                      # Project documentation
+
+## Run the Streamlit App
+
+streamlit run app/streamlit_app.py
