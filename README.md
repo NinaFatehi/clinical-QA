@@ -27,6 +27,10 @@ clinical-note-summarization-clean/
 ├── .gitignore                     # Ignore unnecessary files
 ├── requirements.txt               # Project dependencies
 └── README.md                      # Project documentation
+```
+## Clone the Repository:
+git clone https://github.com/NinaFatehi/clinical-note-summarization-clean.git
+cd clinical-note-summarization-clean
 
 ## Run the Streamlit App
 
